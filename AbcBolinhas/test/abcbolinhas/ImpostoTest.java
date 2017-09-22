@@ -5,9 +5,6 @@
  */
 package abcbolinhas;
 
-import abcbolinhas.Imposto;
-import abcbolinhas.Imposto;
-import abcbolinhas.Orcamento;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
